@@ -10,6 +10,12 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+
+        }
+
+        static void SayHi()
+        {
+            Console.WriteLine("Bye");
         }
     }
 }
