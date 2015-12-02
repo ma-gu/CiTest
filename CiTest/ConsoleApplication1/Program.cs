@@ -15,7 +15,7 @@ namespace ConsoleApplication1
 
         static void SayHi()
         {
-            Console.WriteLine("Bye-bye");
+            Console.WriteLine("Bye-bye-bye");
         }
     }
 }
